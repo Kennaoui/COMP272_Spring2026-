@@ -1,3 +1,4 @@
+package ds.stack;
 import java.util.EmptyStackException;
 
 public class ArrayStack<E> implements Stack<E> {
