@@ -1,6 +1,6 @@
 import ds.stack.*;
 
-public class ParenMatcherStringTest {
+public class ParenMatcherTest {
 
     public static void main(String[] args) {
 
