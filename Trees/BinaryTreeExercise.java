@@ -90,7 +90,7 @@ class BinaryTreeNode{
 }
 
 
-public class TreeExercise {
+public class BinaryTreeExercise {
     public static void main(String[] args){
         //create root node
 		BinaryTreeNode root = new BinaryTreeNode(1);
