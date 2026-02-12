@@ -32,7 +32,7 @@ class TreeNode{
 }
 
 
-public class BinaryTreeExercise {
+public class TreeExercise {
     public static void main(String[] args){
         //create root node
 		TreeNode root = new TreeNode(1);
